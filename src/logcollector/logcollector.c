@@ -140,7 +140,6 @@ void LogCollectorStart()
 #endif
 
 #endif
-
             current->file = NULL;
             current->command = NULL;
             current->fp = NULL;
